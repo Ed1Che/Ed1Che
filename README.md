@@ -163,11 +163,6 @@ I'm a cybersecurity student with hands-on experience across multiple security do
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ed1Che&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ed1Che&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ed1Che&theme=chartreuse-dark&hide_border=true)
 
@@ -190,6 +185,5 @@ I'm a cybersecurity student with hands-on experience across multiple security do
 ---
 *"The quieter you become, the more you are able to hear." — Kali Linux*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00ff41)
 
 </div>
