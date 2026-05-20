@@ -149,7 +149,7 @@ I'm a cybersecurity student with hands-on experience across multiple security do
 
 -->
 
-## 🎯 Learning Goals — 2025
+## 🎯 Learning Goals — 2026
 
 - [ ] 🔴 Complete OSCP / eJPT certification
 - [ ] 🔵 Build a full Detection Engineering pipeline (Sigma rules → SIEM)
